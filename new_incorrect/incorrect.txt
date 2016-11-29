@@ -1,0 +1,10 @@
+1. improper procedure declaration (procedure doesn't exist)
+2. missing period after "end"
+3. expecting a "then" statement
+4. = instead of :=
+5. comma missing
+6. relational operator exptected
+7. Assignment to procedure not allowed
+8. semicolon between statements expected
+9. undeclared variables 
+10. statement expected after "then" 
