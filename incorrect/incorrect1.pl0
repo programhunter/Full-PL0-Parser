@@ -1,4 +1,14 @@
-var a;
+var f, n;
+procedure fact;
+	var ans1;
+	begin
+		ans1:= n;
+		n:= n-1;
+		if n = 0 then f := 1 else call fact;
+		f:=f*ans1;
+	end;
 begin
-a := 0;
-end
+	n:=5;
+	call facts;
+	write f;
+end.
